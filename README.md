@@ -16,7 +16,7 @@ Algorithms and Data-Structures
  * Shaker sort  
  * Shell sort  
 * Hashtable  
-* Stack  
+* Stack - [post](http://hugocaracol.github.io/blog/2012/11/27/stack-data-structure/)
 * Queue  
 * Binary search  
 
